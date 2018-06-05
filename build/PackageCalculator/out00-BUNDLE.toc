@@ -1,0 +1,3 @@
+([('PackageCalculator',
+   '/Users/DanHerrick/Developer/PackageCalculator/dist/PackageCalculator',
+   'EXECUTABLE')],)
